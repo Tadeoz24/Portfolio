@@ -25,9 +25,9 @@ import joolz from './company/joolz.png';
 import marliesdekkers from './company/marliesdekkers.png';
 import paulaschoice from './company/paulaschoice.png';
 
-import carrent from './carrent.png';
-import jobit from './jobit.png';
-import tripguide from './tripguide.png';
+import ted from './ted.png';
+import ngvideogamedb from './ngvideogamedb.png';
+import userinfo from './userinfo.png';
 
 export {
   logo,
@@ -54,7 +54,7 @@ export {
   joolz,
   marliesdekkers,
   paulaschoice,
-  carrent,
-  jobit,
-  tripguide,
+  ted,
+  ngvideogamedb,
+  userinfo,
 };
