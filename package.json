@@ -5,19 +5,9 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-<<<<<<< HEAD
     "build": "vite build",
     "preview": "vite preview",
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
-=======
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
-    "build": "vite build",
-    "preview": "vite preview"
->>>>>>> 7f51b190aa0e27278ea4295511c319ff610f0f49
+    "dep" : "gh-pages -d -dist"
   },
   "dependencies": {
     "@emailjs/browser": "^3.10.0",
