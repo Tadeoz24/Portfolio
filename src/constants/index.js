@@ -131,7 +131,7 @@ const experiences = [
     company_name: "Marlies Dekkers (Emakina.Nl)",
     icon: marliesdekkers,
     iconBg: "#E6DEDD",
-    date: "May 2022 - January 2023",
+    date: "July 2022 - January 2023",
     points: [
       "Developing and maintaining web applications using Javascript and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -144,7 +144,7 @@ const experiences = [
     company_name: "Paula's Choice (Emakina.Nl)",
     icon: paulaschoice,
     iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
+    date: "July 2022 - Jan 2023",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
