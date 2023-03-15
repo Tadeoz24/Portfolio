@@ -20,7 +20,7 @@ My project is a portfolio that aims to showcase my skills and experience to pote
 
 ## Live <a name = "live"></a>
 
-
+https://tadeoz24.github.io/Portfolio/
 
 ## Getting Started <a name = "getting_started"></a>
 
@@ -40,24 +40,4 @@ $ npm install
 $ npm run dev
 
 ```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running.
-
-Say what the step will be
-
-# Clone this project
-$ git clone https://github.com/Tadeoz24/Portfolio.git
-
-# Access
-$ cd Portfolio
-
-# Install dependencies
-$ npm install
-
-# Run the project
-$ npm run dev
-
-# The server will initialize in the Localhost
 
